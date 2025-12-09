@@ -1,6 +1,6 @@
 #  Projeto de Extensão Beira Linha  
 ## 💻 Curso: Iniciação à Programação Web  
-## 🛍️ Projeto: {{NOME_DO_PROJETO}}
+## 🛍️ Projeto: {minha loja}
 
 ---
 

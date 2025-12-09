@@ -11,7 +11,7 @@ O objetivo foi criar um site de e-commerce simples, aplicando os principais conc
 ---
 
 ### 👩‍💻 Aluno
-- {{NOME_DO_ALUNO_1}}  
+- {{Bruna reis }}  
 
 ---
 
